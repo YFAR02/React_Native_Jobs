@@ -1,5 +1,5 @@
 // import profile from "../assets/images/kemal.jpg";
 
 export default {
-  profile,
+  // No images currently available - add them here when needed
 };
